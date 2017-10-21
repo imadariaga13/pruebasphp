@@ -1,0 +1,26 @@
+
+
+<div id="pie">&#169;imadariaga@uni.eus </div>
+
+<script>
+    function ezkutatu() {
+        document.getElementById("logoUni").style.visibility = "hidden"; 
+    }
+    function invertir() {
+        if (document.getElementById("logoUni").src.endsWith("img/logouni.png")) {
+          document.getElementById("logoUni").src = "img/logouninegativo.png";
+          
+        } 
+        else {
+        	 document.getElementById("logoUni").src = "img/logouni.png";
+        }
+        
+    }
+    function handitu() {
+        document.getElementById("logoUni").style.width = "77px"; 
+    }
+
+  </script>
+
+</body>
+</html>

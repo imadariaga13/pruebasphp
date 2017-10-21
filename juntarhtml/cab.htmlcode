@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Probando bordes">
+  <meta name="keywords" content="HTML, CSS, bordes">
+  <meta name="author" content="root" >
+  <link rel="stylesheet" type="text/css" href="css/estilos.css">
+  
+</head>
+
+<body>
+<div id="arriba" style="background-image:url('img/titulocicloconfondo.png')">
+      <img id="logoUni" src="img/logouni.png" style="width:70px;height:62px;padding: 8px 8px 8px 8px" onclick="invertir()" />
+      
+</div>
+
+<ul class=ulListaMH>
+			<li><a href="index.html#arriba">Inicio</a></li>
+		   <li><a href="asignaturas.html">Asignaturas</a></li>
+			<li class="dropdown">
+			    <a href="personas.html" class="dropa">Personas</a>
+		       <div class="dropdown-content">
+					<a href="alumnos.html">Alumnos</a>
+					<a href="profesores.html">Profesores</a>
+					<a href="otraspersonas.html">Otros</a>
+				 </div>
+			</li>
+			<li><a href="bolsatrabajo.html">Bolsa Trabajo</a></li>
+</ul>	
+	
