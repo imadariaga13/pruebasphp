@@ -1,28 +1,28 @@
 PROGRAMAZIOA ikasgaiko ikasleen zerrenda
 -------------------------------------------
-arambarri.oihana
+arambarri.oihana [ondarru]
 benslaiman.chaimae
 blazquez.asier
 calvo.mireia
 gallastegui.maitane
 gonzalez.maialen
-kalboetxeaga.ager
-loizate.oier
+kalboetxeaga.ager [bergara]
+loizate.oier [ondarru]
 monasterio.hodei
 moneo.asier
-moreno.manuel 
+moreno.manuel [ermua]
 peralta.laura
 romero.iker
-santibanez.ruben
+santibanez.ruben 
 suinaga.jon
 uribe.markel
-vilarchao.benat
+vilarchao.benat [elgoibar]
 zelaia.haritz
 zengotita.jon
 zevallos.julio 
 zubimendi.ondiz
 ---------
-salgado.markel (DAM2)
-jauregi.iker (DAW2)
-gallastegui.aitor (DAW2)
+salgado.markel (DAM2) [bergara]
+jauregi.iker (DAW2) [markina]
+gallastegui.aitor (DAW2) [bergara]
 ferrero.sergio (DAM2)
