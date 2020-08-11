@@ -1,18 +1,19 @@
-PROGRAMAZIOA ikasgaiko ikasleen zerrenda  
+PROGRAMAZIOA ikasgaiko ikasleen zerrenda  (imadariaga13@gmail.com-ek aldatua)
 ---
-arambarri.oihana \[ondarru\]  
+arambarri.oihana [ondarru]  
 benslaiman.chaimae  
 blazquez.asier  
 calvo.mireia  
-gallastegui.maitane  
-gonzalez.maialen
-kalboetxeaga.ager [bergara]
-loizate.oier [ondarru]
-monasterio.hodei
-moneo.asier
-moreno.manuel [ermua]
-peralta.laura
-romero.iker
+gallastegui.maitane    
+gonzalez.maialen  
+kalboetxeaga.ager [bergara]  
+loizate.oier [ondarru]  
+madariaga13.idoia [durango]  
+monasterio.hodei  
+moneo.asier  
+moreno.manuel [ermua]  
+peralta.laura  
+romero.iker  
 santibanez.ruben 
 suinaga.jon
 uribe.markel
@@ -26,3 +27,4 @@ salgado.markel (DAM2) [bergara]
 jauregi.iker (DAW2) [markina]  
 gallastegui.aitor (DAW2) [bergara]  
 ferrero.sergio (DAM2)  
+
