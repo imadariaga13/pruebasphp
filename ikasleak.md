@@ -1,4 +1,4 @@
-PROGRAMAZIOA ikasgaiko ikasleen zerrenda  (imadariaga13@gmail.com-ek aldatua)
+PROGRAMAZIOA ikasgaiko ikasleen zerrenda  (imadariaga13@gmail.com-ek aldatua) 7 neska inguru
 ---
 arambarri.oihana [ondarru]  
 benslaiman.chaimae  
